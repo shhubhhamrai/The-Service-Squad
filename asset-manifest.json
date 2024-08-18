@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/The-Service-Squad/static/css/main.79e7105d.css",
+    "main.js": "/The-Service-Squad/static/js/main.53e1ba2e.js",
+    "static/media/Sign-up-bg.png": "/The-Service-Squad/static/media/Sign-up-bg.a868e026be906dcf0a8c.png",
+    "static/media/login-bg.png": "/The-Service-Squad/static/media/login-bg.c1595a6d1f319611a076.png",
+    "static/media/homePage.jpg": "/The-Service-Squad/static/media/homePage.3e6d9904e0dcf9a3e140.jpg",
+    "static/media/S-logo.jpg": "/The-Service-Squad/static/media/S-logo.d945174499ca76284155.jpg",
+    "static/media/electrical.svg": "/The-Service-Squad/static/media/electrical.45925527d8119d16d95698895ed069c6.svg",
+    "static/media/pest-control.svg": "/The-Service-Squad/static/media/pest-control.efa3df261ba6e9e9bc8897f1ff647e64.svg",
+    "static/media/appliances.svg": "/The-Service-Squad/static/media/appliances.d7f516d5af944ccbed2ba91ec5a69ae3.svg",
+    "static/media/plumbing.svg": "/The-Service-Squad/static/media/plumbing.b2b334caedcae83620b265f40672c4ad.svg",
+    "static/media/carpentry.svg": "/The-Service-Squad/static/media/carpentry.13d30df2a6794f61c6aaba0ef870f9f0.svg",
+    "static/media/home-cleaning.svg": "/The-Service-Squad/static/media/home-cleaning.21407a26e9289a514da99cffbfead4a7.svg",
+    "static/media/painting.svg": "/The-Service-Squad/static/media/painting.ddc57bdf89c5f0d6b6d65ee6dd4a63e6.svg",
+    "index.html": "/The-Service-Squad/index.html",
+    "main.79e7105d.css.map": "/The-Service-Squad/static/css/main.79e7105d.css.map",
+    "main.53e1ba2e.js.map": "/The-Service-Squad/static/js/main.53e1ba2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79e7105d.css",
+    "static/js/main.53e1ba2e.js"
+  ]
+}
